@@ -1,3 +1,5 @@
+English | [Português](https://github.com/Alimsoftware/apkeditor_plugin_translation/blob/master/README_pt.md)
+
 # apkeditor_plugin_translation
 A sample translation plugin for APK Editor (Pro). In this project, src directory contains source code of the sample translation plugin; translate_debugger.zip is a patch to correct some spoiled variables (like "1 $%") which are wrongly translated by the translation plugin. (The patch is provided by a Russian friend)
 
